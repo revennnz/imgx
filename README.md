@@ -1,5 +1,5 @@
 
 # Imagenes
 
-Holla que tal? que haces por aqui?
+Hola que tal? que haces por aqui?
 

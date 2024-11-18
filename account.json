@@ -86,6 +86,7 @@
             ]
         },
                 {
+            "id": "fn",        
             "platform": "Epic Games",
             "platformIcon": "https://example.com/epic-icon.png",
             "previewImage": "https://example.com/epic-library.jpg",
@@ -110,6 +111,7 @@
             ]
         },
                 {
+            "id": "rocketl",        
             "platform": "Epic Games",
             "platformIcon": "https://example.com/epic-icon.png",
             "previewImage": "https://example.com/epic-library.jpg",

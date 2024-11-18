@@ -1,0 +1,76 @@
+{
+    "accounts": [
+        {
+            "platform": "Steam",
+            "platformIcon": "https://example.com/steam-icon.png",
+            "previewImage": "https://example.com/library-preview.jpg",
+            "username": "steamuser123",
+            "password": "securepass123",
+            "games": [
+                "Grand Theft Auto V",
+                "Red Dead Redemption 2",
+                "Counter-Strike: Global Offensive"
+            ]
+        },
+        {
+            "platform": "Epic Games",
+            "platformIcon": "https://example.com/epic-icon.png",
+            "previewImage": "https://example.com/epic-library.jpg",
+            "username": "epicuser456",
+            "password": "epicpass456",
+            "games": [
+                "Fortnite",
+                "Rocket League",
+                "Borderlands 3"
+            ]
+        },
+              {
+            "platform": "Steam",
+            "platformIcon": "https://example.com/steam-icon.png",
+            "previewImage": "https://example.com/library-preview.jpg",
+            "username": "steamuser123",
+            "password": "securepass123",
+            "games": [
+                "Grand Theft Auto V",
+                "Red Dead Redemption 2",
+                "Counter-Strike: Global Offensive"
+            ]
+        },
+              {
+            "platform": "Steam",
+            "platformIcon": "https://example.com/steam-icon.png",
+            "previewImage": "https://example.com/library-preview.jpg",
+            "username": "gjdjg",
+            "password": "lglgdo",
+            "games": [
+                "Grand Theft Auto V",
+                "Red Dead Redemption 2",
+                "Counter-Strike: Global Offensive"
+            ]
+        },
+              {
+            "platform": "Steam",
+            "platformIcon": "https://example.com/steam-icon.png",
+            "previewImage": "https://example.com/library-preview.jpg",
+            "username": "jhgoifgi",
+            "password": "se9494",
+            "games": [
+                "Grand Theft Auto V",
+                "Red Dead Redemption 2",
+                "Counter-Strike: Global Offensive"
+            ]
+        },
+              {
+            "platform": "Steam",
+            "platformIcon": "https://example.com/steam-icon.png",
+            "previewImage": "https://example.com/library-preview.jpg",
+            "username": "stea8584",
+            "password": "secu323",
+            "games": [
+                "Grand Theft Auto V",
+                "Red Dead Redemption 2",
+                "Counter-Strike: Global Offensive"
+            ]
+        }
+    ]
+}

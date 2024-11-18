@@ -71,6 +71,54 @@
                 "Red Dead Redemption 2",
                 "Counter-Strike: Global Offensive"
             ]
+        },
+                {
+            "platform": "Epic Games",
+            "platformIcon": "https://example.com/epic-icon.png",
+            "previewImage": "https://example.com/epic-library.jpg",
+            "username": "epicuser456",
+            "password": "epicpass456",
+            "games": [
+                "Fortnite",
+                "Rocket League",
+                "Borderlands 3"
+            ]
+        },
+                {
+            "platform": "Epic Games",
+            "platformIcon": "https://example.com/epic-icon.png",
+            "previewImage": "https://example.com/epic-library.jpg",
+            "username": "epicuser456",
+            "password": "epicpass456",
+            "games": [
+                "Fortnite",
+                "Rocket League",
+                "Borderlands 3"
+            ]
+        },
+                {
+            "platform": "Epic Games",
+            "platformIcon": "https://example.com/epic-icon.png",
+            "previewImage": "https://example.com/epic-library.jpg",
+            "username": "epicuser456",
+            "password": "epicpass456",
+            "games": [
+                "Fortnite",
+                "Rocket League",
+                "Borderlands 3"
+            ]
+        },
+                {
+            "platform": "Epic Games",
+            "platformIcon": "https://example.com/epic-icon.png",
+            "previewImage": "https://example.com/epic-library.jpg",
+            "username": "epicuser456",
+            "password": "epicpass456",
+            "games": [
+                "Fortnite",
+                "Rocket League",
+                "Borderlands 3"
+            ]
         }
     ]
 }
